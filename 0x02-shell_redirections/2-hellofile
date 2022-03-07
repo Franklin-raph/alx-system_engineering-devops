@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "cat etc/psswd"
+echo "cat etc/passwd"
